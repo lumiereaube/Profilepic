@@ -1,0 +1,2 @@
+# Profilepic
+Imagen en pixeles. 
