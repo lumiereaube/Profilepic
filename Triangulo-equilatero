@@ -1,0 +1,6 @@
+ size (800,600);
+noStroke ();
+triangle (300,200,385,350,215,350);
+stroke (100);
+ noFill ();
+ellipse (300,300,200,200);
