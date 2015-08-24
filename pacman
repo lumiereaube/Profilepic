@@ -1,0 +1,7 @@
+ size (900,700);
+noStroke ();
+ fill (150);
+noStroke ();
+arc (500,500,100,100, QUARTER_PI, TWO_PI-QUARTER_PI);
+fill (0);
+ellipse (500,470,10,10); 
